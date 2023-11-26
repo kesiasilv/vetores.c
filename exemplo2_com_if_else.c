@@ -4,7 +4,6 @@ e depois apresente a soma dos numeros par e a soma dos
 numeros impares, e por fim a media das notas;*/
 
 int main(){
-	//sem if e else;
 	int i, nota[6], par = 0, impar = 0;
 	float soma = 0, media = 0;
 	
